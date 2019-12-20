@@ -1,4 +1,4 @@
-# du_conference_room_fronted
+# sdu_conference_room_fronted
 
 ## Project setup
 ```
